@@ -9,7 +9,7 @@ const path = require("path");
 const app = express();
 app.use(
   cors({
-    origin: process.env.FRONTEND_URL,
+    origin: "https://dapper-taffy-ff3da5.netlify.app",
     credentials: true,
   })
 );
