@@ -9,7 +9,7 @@ const path = require("path");
 const app = express();
 app.use(
   cors({
-    origin: "https://dapper-taffy-ff3da5.netlify.app",
+    origin: "https://gadgeto-ecommerce-mern-app.netlify.app",
     credentials: true,
   })
 );
