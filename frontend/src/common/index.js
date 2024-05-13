@@ -1,4 +1,4 @@
-const backendDomin = `${window.location.origin}`;
+const backendDomin = `https://gadgeto-e-commerce-mern-app.vercel.app`;
 
 const SummaryApi = {
   signUP: {
